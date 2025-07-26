@@ -42,8 +42,8 @@ fare_amount, pickup_datetime, pickup_longitude, pickup_latitude, dropoff_longitu
 
 ### Feature Engineering  
 - Extracted new features from pickup_datetime: hour, day, month, and weekday.  
-![Dara Engineering](./Dara%20engeneiring.png)  
-- Saved the enhanced dataframe as uber_features.csv for Power BI import.  
+![Dara Engineering](./Dara%20engeeniring.png)  
+- Saved the enhanced dataframe as uber_features.csv for Power BI import.
 
 ---
 
